@@ -1,2 +1,2 @@
 # pushprom
-cpoy from https://github.com/messagebird/pushprom but fix somethings
+copy from https://github.com/messagebird/pushprom but fix somethings
